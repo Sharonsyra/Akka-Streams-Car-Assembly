@@ -1,0 +1,7 @@
+*target
+.idea
+*.iml
+.bsp
+.cue
+.bookmark
+.courseName
